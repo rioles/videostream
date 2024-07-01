@@ -1,0 +1,7 @@
+POST http://127.0.0.1:5000/api/v1/role
+content-type: application/json
+
+{
+    "name":"pharm"
+}
+
